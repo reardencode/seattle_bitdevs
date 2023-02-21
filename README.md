@@ -1,2 +1,3 @@
-# seattle_bitdevs
-Files Relating to Seattle BitDevs
+# Seattle BitDevs Socratic Seminars
+
+* [February 23, 2023](202302.md)
