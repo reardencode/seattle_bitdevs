@@ -1,4 +1,5 @@
 # Seattle BitDevs Socratic Seminars
+* [March 26, 2026](202603.md)
 * [February 27, 2026](202602.md)
 * [January 29, 2026](202601.md)
 * [December 4, 2025](202512.md)
